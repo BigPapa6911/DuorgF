@@ -1,5 +1,16 @@
 # Duorg
 
+## 👨‍💻Integrantes
+- Daniel Araujo Debastiani- 2210875
+- Eduardo Zoldan Debastiani - 2210169
+- Gabriel Homsi Gonçalves de Almeida - 2210364
+- Gustavo Maia Moreira - 2211155
+- Hercules Gabriel Araújo Câmara - 2310953
+- Lucas Oliveira Santiago - 2210370
+- Luis Felipe Borges Rosa - 2211829
+- Rafael Luiz Pires Lima - 2211814
+- Matheus de Paula Costa Cavalcante - 2210950
+
 ## 📖 Sobre o Projeto
 Vital Link é uma plataforma que conecta doadores, receptores e hospitais, facilitando o gerenciamento de informações e ações relacionadas à doação de órgãos. O sistema fornece uma interface intuitiva e funcional para os seguintes recursos:</br>
 
